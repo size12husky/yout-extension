@@ -9,5 +9,11 @@ Installation Instructions:
 4. Go to chrome://extensions
 5. Click "Load Unpacked" and select the folder you downloaded files to
 
+Usage:
+1. Navigate to YouTube
+2. Ensure autoplay is turned off
+3. Open any video
+5. Click on the extensions icon -> "One-Click YouTube Downloader"
+
 **NOTE: YOU MAY NEED TO REFRESH THE PAGE ONCE AFTER INITIAL LOAD
 FOR THE EXTENSION TO LOAD THE VIDEO CONTENT PROPERLY**
